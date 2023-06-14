@@ -1,7 +1,0 @@
-{
-  "include": [
-    "*.js",
-    "**/*.js",
-    "/Users/sinhyewon/.vscode/extensions/samplavigne.p5-vscode-1.2.13/p5types/global.d.ts"
-  ]
-}
